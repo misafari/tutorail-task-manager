@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/ronin-task-manager/static/js/main.faa18386.chunk.js",
-    "main.js.map": "/ronin-task-manager/static/js/main.faa18386.chunk.js.map",
-    "runtime-main.js": "/ronin-task-manager/static/js/runtime-main.dc30b8ad.js",
-    "runtime-main.js.map": "/ronin-task-manager/static/js/runtime-main.dc30b8ad.js.map",
-    "static/js/2.a65bdbc9.chunk.js": "/ronin-task-manager/static/js/2.a65bdbc9.chunk.js",
-    "static/js/2.a65bdbc9.chunk.js.map": "/ronin-task-manager/static/js/2.a65bdbc9.chunk.js.map",
-    "index.html": "/ronin-task-manager/index.html",
-    "static/js/2.a65bdbc9.chunk.js.LICENSE.txt": "/ronin-task-manager/static/js/2.a65bdbc9.chunk.js.LICENSE.txt"
+    "main.js": "/tutorail-task-manager/static/js/main.faa18386.chunk.js",
+    "main.js.map": "/tutorail-task-manager/static/js/main.faa18386.chunk.js.map",
+    "runtime-main.js": "/tutorail-task-manager/static/js/runtime-main.5feb6997.js",
+    "runtime-main.js.map": "/tutorail-task-manager/static/js/runtime-main.5feb6997.js.map",
+    "static/js/2.a65bdbc9.chunk.js": "/tutorail-task-manager/static/js/2.a65bdbc9.chunk.js",
+    "static/js/2.a65bdbc9.chunk.js.map": "/tutorail-task-manager/static/js/2.a65bdbc9.chunk.js.map",
+    "index.html": "/tutorail-task-manager/index.html",
+    "static/js/2.a65bdbc9.chunk.js.LICENSE.txt": "/tutorail-task-manager/static/js/2.a65bdbc9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc30b8ad.js",
+    "static/js/runtime-main.5feb6997.js",
     "static/js/2.a65bdbc9.chunk.js",
     "static/js/main.faa18386.chunk.js"
   ]
